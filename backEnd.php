@@ -36,6 +36,5 @@
 
 					 ?>
 		</table>
-		<a href = 'frontEnd.php'>Back</a>
 	</body>
 </html>
